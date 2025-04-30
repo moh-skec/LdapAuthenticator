@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/eye_closed.png</file>
+        <file>icons/eye_opened.png</file>
+        <file>icons/ldap_auth_icon.icns</file>
+        <file>icons/ldap_auth_icon.ico</file>
+        <file>icons/ldap_auth_icon.png</file>
+    </qresource>
+</RCC>
